@@ -1,4 +1,4 @@
-# How to Launch a Token with Clanker on Farcaster
+# How to Launch a Token
 
 ## How to Launch a Token with Clanker on Farcaster
 
