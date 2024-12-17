@@ -50,9 +50,3 @@ Click on a topic below to begin:
 
 Happy learning!
 
-```markdown
-[Get Started with Farcaster](#getting-started-with-farcaster)  
-[Setup Your Wallet](#setting-up-your-first-wallet)  
-[Use Decentralized Exchanges](#using-decentralized-exchanges)  
-[Learn About Centralized Exchanges](#understanding-centralized-exchanges)
-```
