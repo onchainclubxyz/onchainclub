@@ -1,8 +1,9 @@
 # Table of contents
 
-## Welcome
-
 * [Welcome](README.md)
-* [Clanker](welcome/clanker/README.md)
-  * [How to Launch a Token](welcome/clanker/how-to-launch-a-token.md)
-  * [How it works](welcome/clanker/how-it-works.md)
+
+## Farcaster
+
+* [Clanker](farcaster/clanker/README.md)
+  * [How to Launch a Token](farcaster/clanker/how-to-launch-a-token.md)
+  * [How it works](farcaster/clanker/how-it-works.md)
