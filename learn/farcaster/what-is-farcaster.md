@@ -46,7 +46,10 @@ Here’s a quick overview of how to get started:
 
 Now that you know what Farcaster is, check out these guides to get started:
 
-* How to Create a Warpcast Account
+{% content-ref url="warpcast.md" %}
+[warpcast.md](warpcast.md)
+{% endcontent-ref %}
+
 * How to Use Supercast
 
 Farcaster is more than just a platform—it’s a growing ecosystem for decentralized communities. Start exploring today and join the future of social media!
